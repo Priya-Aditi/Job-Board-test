@@ -1,0 +1,40 @@
+# Node / React
+node_modules/
+dist/
+.env
+.vite/
+
+# Vite cache
+.cache/
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build artifacts
+build/
+coverage/
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
+
+# SQLite DB
+*.db
+*.db-journal
+
+# VSCode
+.vscode/
+
+# .NET
+bin/
+obj/
+*.user
+*.suo
+
+# Rider / JetBrains
+.idea/
+
+# Publish folder
+wwwroot/
